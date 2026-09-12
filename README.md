@@ -1,16 +1,15 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSFBP0)
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212228-hue/MSFP0)
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Nombre completo [correo@tijuana.tecnm.mx]
+Reyes Zamudio Mariant [23212228@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
 Ingeniería Biomédica
 
 ## Docente
-Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
+Dr. Paul Antonio Valle Trujillo; paul.2321228@tectijuana.edu.mx
 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México.
 
